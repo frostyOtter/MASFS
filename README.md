@@ -25,6 +25,8 @@ Type messages to chat. `/new` starts a fresh conversation; `/exit` quits. The ap
 
 ## Changelog
 
+See [CHANGELOG.md](CHANGELOG.md) for the Milestone 1 release log and verification status.
+
 ### 0.1.0 — Milestone 1: synchronous chatbot (current)
 
 **Supported:** Multi-turn terminal chat with one OpenAI-compatible provider; `/new` and `/exit`; environment-based configuration and request timeout; normalized provider errors and closed failed turns; a scripted fake model for offline checks. Canonical history is kept in memory and provider requests use a copy.
