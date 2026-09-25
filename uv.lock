@@ -496,6 +496,7 @@ dependencies = [
     { name = "loguru" },
     { name = "openai" },
     { name = "pyright" },
+    { name = "python-dotenv" },
 ]
 
 [package.dev-dependencies]
@@ -509,6 +510,7 @@ requires-dist = [
     { name = "loguru", specifier = ">=0.7.3" },
     { name = "openai", specifier = ">=3.19.2" },
     { name = "pyright", specifier = ">=1.1.414" },
+    { name = "python-dotenv", specifier = ">=1.2.3" },
 ]
 
 [package.metadata.requires-dev]

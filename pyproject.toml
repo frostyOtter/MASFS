@@ -12,6 +12,7 @@ dependencies = [
     "loguru>=0.7.3",
     "openai>=3.19.2",
     "pyright>=1.1.414",
+    "python-dotenv>=1.2.3",
 ]
 
 [dependency-groups]

@@ -19,7 +19,7 @@
 1. [`MASFS-hermes-agent-mas-research-findings.md`](MASFS-hermes-agent-mas-research-findings.md)
 2. [`MASFS-agile-milestones.md`](MASFS-agile-milestones.md) — active roadmap
 3. [`MASFS-milestone-1-proposal.md`](MASFS-milestone-1-proposal.md) — proposed M1 source design
-4. [`MASFS-milestones-feedback.md`](MASFS-milestones-feedback.md) — optional decision history
+4. [`MASFS-agile-milestones-feedback.md`](MASFS-agile-milestones-feedback.md) — optional decision history
 5. Use this index to locate future MASFS documents.
 
 ## Maintenance rule
