@@ -1,0 +1,25 @@
+[project]
+name = "mas-kraken"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "frostyOtter", email = "binary.hamlet147@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "fastapi[standard]>=0.141.1",
+    "loguru>=0.7.3",
+    "openai>=3.19.2",
+    "pyright>=1.1.414",
+]
+
+[dependency-groups]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+mas-kraken = "mas_kraken:main"
+
+[build-system]
+requires = ["uv_build>=0.12.10,<0.13.0"]
+build-backend = "uv_build"
